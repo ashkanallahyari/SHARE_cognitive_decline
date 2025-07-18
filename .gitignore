@@ -1,0 +1,13 @@
+rawdata/*
+!rawdata/.gitkeep
+processed_data/*
+!processed_data/.gitkeep
+*.zip
+*.sav
+*.rds
+*.csv
+*.png
+*.jpg
+.Rproj.user
+.Rhistory
+traj_long.Rdata
