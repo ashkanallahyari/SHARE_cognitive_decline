@@ -11,3 +11,4 @@ processed_data/*
 .Rproj.user
 .Rhistory
 traj_long.Rdata
+.Rdata
